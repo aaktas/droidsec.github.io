@@ -334,3 +334,12 @@ members:
     web: http://brinly.me
     title: Security Researcher
     bio:  Independent security researcher from Australia..
+    
+  aktash:
+    name: Ahmet Aktas
+    display_name: aktash
+    email: ahmetaktash[at]gmail[dot]com
+    twitter: 4hmet4kt4s
+    github: aaktas
+    title: Master Student/Security Researcher @ Hacettepe University
+    bio:  Android security researcher
